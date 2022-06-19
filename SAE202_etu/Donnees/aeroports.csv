@@ -1,0 +1,94 @@
+AGF;Agen;44;10;29;N;0;35;26;E
+AJA;Ajaccio;41;55;25;N;8;48;10;E
+ANG;Angouleme;45;43;44;N;0;13;8;E
+NCY;Annecy;45;55;51;N;6;6;21;E
+AUR;Aurillac;44;53;29;N;2;25;19;E
+AUF;Auxerre;47;51;0;N;3;29;49;E
+AVN;Avignon;43;54;25;N;4;54;7;E
+BAE;Barcelonnette;44;23;16;N;6;36;36;E
+BIA;Bastia;42;33;9;N;9;29;1;E
+BVA;Beauvais;49;27;16;N;2;6;46;E
+EGC;Bergerac;44;49;31;N;0;31;7;E
+BZR;Beziers;43;19;24;N;3;21;14;E
+BIQ;Biarritz;43;28;6;N;1;31;24;O
+BOD;Bordeaux;44;49;42;N;0;42;56;O
+BOU;Bourges;47;3;29;N;2;22;13;E
+BES;Brest;48;26;52;N;4;25;6;O
+BVE;Brive-la-Gaillarde;45;2;28;N;1;28;55;E
+CFR;Caen;49;10;24;N;0;27;0;O
+ZAO;Cahors;44;21;3;N;1;28;44;E
+CQF;Calais;50;57;0;N;1;57;0;E
+CLY;Calvi;42;31;50;N;8;47;35;E
+CEQ;Cannes;43;32;31;N;6;57;12;E
+CCF;Carcassonne;43;12;57;N;2;18;22;E
+DCM;Castres;43;33;18;N;2;17;27;E
+XCR;Chalons-en-Champagne;48;46;34;N;4;11;4;E
+XCD;Chalon-sur-Saone;46;49;40;N;4;49;1;E
+CMF;Chambery;45;38;17;N;5;52;48;E
+CHR;Chateauroux;46;51;43;N;1;43;50;E
+CER;Cherbourg;49;39;0;N;1;28;13;O
+CFE;Clermont-Ferrand;45;47;12;N;3;10;9;E
+DOL;Deauville;49;21;46;N;0;9;36;E
+DIJ;Dijon;47;16;8;N;5;5;24;E
+DNR;Dinard;48;35;15;N;2;4;47;O
+DLE;Dole;47;2;20;N;5;25;38;E
+EPL;Epinal;48;19;30;N;6;4;1;E
+FSC;Figari;41;30;22;N;9;5;52;E
+GFR;Granville;42;52;58;N;1;33;50;O
+GNB;Grenoble;45;21;46;N;5;19;45;E
+LBY;La Baule;47;17;20;N;2;20;45;O
+LRH;La Rochelle;46;10;45;N;1;11;43;O
+EDM;La Roche-sur-Yon;46;42;7;N;1;22;43;O
+LAI;Lannion;48;45;15;N;3;28;17;O
+LVA;Laval;48;1;55;N;0;44;34;O
+LBG;Le Bourget;48;58;10;N;2;26;29;E
+CTT;Le Castellet;43;15;7;N;5;47;9;E
+LEH;Le Havre;49;32;2;N;0;5;17;E
+LME;Le Mans;47;56;55;N;0;12;6;E
+LPY;Le Puy-en-Velay;45;4;50;N;3;45;46;E
+LTQ;Le Touquet;50;31;2;N;1;37;14;E
+LSO;Les Sables-d'Olonne;46;28;37;N;1;43;22;O
+IDY;L'ile-d'Yeu;46;43;8;N;2;23;27;O
+LIL;Lille;50;33;43;N;3;5;22;E
+LIG;Limoges;45;51;46;N;1;10;46;E
+LRT;Lorient;47;45;38;N;3;26;24;O
+LYS;Lyon;45;43;35;N;5;5;27;E
+MRS;Marseille;43;26;8;N;5;12;49;E
+HZB;Merville;50;37;1;N;2;38;24;E
+MCU;Montlucon;46;13;21;N;2;21;50;E
+MPL;Montpellier;43;34;34;N;3;57;46;E
+MXN;Morlaix;48;36;11;N;3;48;56;O
+MLH;Mulhouse;47;35;22;N;7;31;47;E
+ENC;Nancy;48;41;31;N;6;13;49;E
+ETZ;Nancy;48;58;57;N;6;14;28;E
+NTE;Nantes;47;9;11;N;1;36;38;O
+NVS;Nevers;47;0;9;N;3;6;48;E
+NCE;Nice;43;39;39;N;7;12;19;E
+FNI;Nimes;43;45;26;N;4;24;58;E
+CDG;Paris_Charles de Gaulle;49;0;46;N;2;33;0;E
+ORY;Paris_Orly;48;43;31;N;2;21;34;E
+PUF;Pau;43;22;48;N;0;25;7;O
+PGX;Perigueux;45;11;53;N;0;48;56;E
+PGF;Perpignan;42;44;25;N;2;52;14;E
+PIS;Poitiers;46;35;15;N;0;18;24;E
+POX;Pontoise;49;5;47;N;2;2;26;E
+UIP;Quimper;47;58;29;N;4;10;4;O
+RNS;Rennes;48;4;10;N;1;44;5;O
+RNE;Roanne;46;3;10;N;4;0;0;E
+RCO;Rochefort;45;53;20;N;0;58;58;O
+RDZ;Rodez;44;24;28;N;2;28;57;E
+URO;Rouen;49;23;3;N;1;10;29;E
+SBK;Saint-Brieuc;48;32;16;N;2;51;16;O
+EBU;Saint-Etienne;45;32;26;N;4;17;47;E
+SNR;Saint-Nazaire;47;18;43;N;2;8;57;O
+SYT;Saint-Yan;46;24;45;N;4;0;47;E
+SXB;Strasbourg;48;32;17;N;7;37;41;E
+LDE;Tarbes;43;10;43;N;0;0;23;O
+TLN;Toulon;43;5;50;N;6;8;45;E
+TLS;Toulouse;43;37;44;N;1;21;49;E
+TUF;Tours;47;25;56;N;0;43;39;E
+TNF;Toussus-le-Noble;48;45;6;N;2;6;22;E
+VAF;Valence;44;54;57;N;4;58;8;E
+VNE;Vannes;47;43;8;N;2;43;22;O
+VHY;Vichy;46;10;10;N;3;24;13;E
+VTL;Vittel;48;13;26;N;5;56;7;E
